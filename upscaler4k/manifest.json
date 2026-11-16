@@ -1,10 +1,10 @@
 {
   "components": {
     "app": {
-      "version": "1.0.31",
+      "version": "1.0.32",
       "minShell": "1.0.3",
-      "url": "app-1.0.31.zip",
-      "sha256": "44ada748f190ed7ac22b633b85b2e128ee1f3a307bb98146fd2de14670740344",
+      "url": "app-1.0.32.zip",
+      "sha256": "0f615e611b9a438c74f613c7f8caece78d6b4a5ef085d1a4eecef4b19d4b97e6",
       "notes": ""
     }
   }
